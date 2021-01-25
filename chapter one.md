@@ -141,3 +141,33 @@ Libraries:
 
 LAMP (Linux, Apache, MySQL, PHP)
 
+
+
+#### VPN in the Cloud
+
+Connections via cloud 
+
+#### Virtual Private Cloud (VPC)
+
+Connecting to instances 
+
+ALready configured subnets can are not affected by modifications   
+
+#### Compute Engine
+
+created from GCP console 
+
+    or gcloud
+
+    Run images on Linux or Windows Server
+
+SSD allow qucik and fast task execution
+
+Boot images: 
+
+also the start up script
+
+you can scale up or out of VMs
+
+    use VMs for memory-and-compute-intensive applications
+    Autoscaling fro resilence
