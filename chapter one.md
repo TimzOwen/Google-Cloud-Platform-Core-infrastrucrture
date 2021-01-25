@@ -82,3 +82,62 @@ organizaition nde:
 
     File organization also affects user access and modification
 
+
+#### Identitity and access Management
+
+Allows adimins to allocate privilages to:
+
+    Who can---> Group policy/ Google Account
+    what can do ---> IAM
+    Resources to operate on
+
+Rights can be:
+    view
+    view/edit
+    Manage all the entire resources
+    editor
+
+#### IAM Roles
+
+Instance Admin Role:
+
+    Listing VMs
+    Reading and changing their configurations
+    Strating and Stopping VMs
+
+Custom Roles & Full previlage roles
+
+Custom roles are only used at the project based or organization level only
+
+service Accounts Control server-to-server interactions
+
+    authenticate 
+
+    provider server-to-server interactions
+
+    control privilages used by resources
+
+    identified by email addresses
+
+#### Interacting with GCP platform
+
+    Cloud platform Console --> web based admin console
+    Cloud Shell and Cloud SDK --> Terminal based gsutil ,gcloud , Docker image
+    Cloud console mobile app --
+    REST-based API (Representations state Transfer paradigmn) 
+        uses JSON 
+        OAuth 2.0 for authentication and authorization
+        Enables on GCP Console 
+    
+API explorer --> helps ypu write code
+
+Libraries:
+
+    Cloud Client Libraries
+
+    Google API Cloud Libraries
+
+### Deploying web apps 
+
+LAMP (Linux, Apache, MySQL, PHP)
+
