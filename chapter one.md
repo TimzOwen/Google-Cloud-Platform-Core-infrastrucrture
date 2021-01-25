@@ -3,7 +3,7 @@
 
 #### For Data scientist check read on
 
-[https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/home/welcome](Google Big Data)
+[Google Big Data Course](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals/home/welcome)
 
 ### GCP Services
 
