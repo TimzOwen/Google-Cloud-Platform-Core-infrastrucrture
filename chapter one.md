@@ -43,3 +43,42 @@ Service deployments-->Encryption of interservice communication
 
 Hardware infrastructure--> premise security & secure boot stack from data loss
 
+
+
+Quotas:
+    prevent againest overuser of resoures
+
+    Allocation quotas
+
+    Rate quotas
+
+Access management in the cloud
+
+    workloads in GCP:
+    
+    uses Identity and Access Manager (IAM)
+
+Interacting with GCP:
+
+    APIs
+
+    web-based Console
+
+    SDK 
+
+    commandline
+
+    Mobile Apps
+
+#### GCP REsource Hierachy
+
+Grouped arccoding to the organization's structure
+
+provide resources allocations and isolations
+
+organizaition nde:
+    
+    The root node fro GCP resources
+
+    File organization also affects user access and modification
+
