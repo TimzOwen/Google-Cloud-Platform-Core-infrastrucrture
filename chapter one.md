@@ -171,3 +171,42 @@ you can scale up or out of VMs
 
     use VMs for memory-and-compute-intensive applications
     Autoscaling fro resilence
+
+
+#### VPC Network
+
+provide security when providing services
+
+#### Importance of VPC capabilities
+
+you can control VPC and use it to root traffic within network 
+
+have routing tables used for forwading traffic from one instance to another 
+
+GCP automatically manages firewalls 
+
+__VPC Peering__ : Establishes connections between 2 GCP Projets
+
+__shared VPC__ uses __IAM__ to manage the communications between GCP
+
+__CLoud Load balacing__ fully distributed software-defined to manage servies for all your traffic.
+
+__HTTPS Load balacing__ allow scalling without any user notification 
+
+__global SSL proxy load balancer__  for none http requests 
+
+__Internal Load balancer__ rediret traffic between your internal projects not going to Google network
+
+**Cloud DNS** managed cloud service running on same infrastructure as google 
+    
+    it is programmable and a user can manage multiple zones by usinf GCP console /API / CI
+
+Edge caches accelerate content delivery and can be managed from th Google Cloud CDN
+
+# GCP interconnections
+
+    VPN --> secure multi-Gbps connections over VPN traffic
+    Direct Peering -->Private connection between you and the Google cloud and hybrid cloud & workloads
+    carrier Peering -->Connection through the largest partner network of service providers
+    Dedicated Interconnect-> connect 10 N X 10G transport circuit for private 
+                            cloud traffic to Google at Google  PoPs    
