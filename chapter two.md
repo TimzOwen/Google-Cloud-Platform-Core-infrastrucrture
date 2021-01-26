@@ -82,7 +82,7 @@ Support high throughout
     Batch Processing
 
 
-#### Cloud SQL and CLoud Spanner
+### Cloud SQL and CLoud Spanner
 
 __Relational db Services__  uses db schema to help your data be consistent and correct 
 
