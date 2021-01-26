@@ -1,3 +1,4 @@
+## Google Cloud Storage
 
 ### Storage Options for GCP
 
@@ -7,7 +8,7 @@
     Cloud Data Store
     Google Big table
 
-#### Cloud Storage
+### Cloud Storage
 
 Allows scaling 
 simple administration
@@ -38,13 +39,13 @@ __lifer cycle__ management policiy for __versioning__ which allows quick modific
 3. Nearline (Access infriquently accessed data)
 4. Coldline  (Data archiving, oinline backup, Disaster recovery)
 
-# Data upload 
+### Data upload 
 
     Online Transfer (Self-managed, copies using commandline or Drag and Drop)
     Storage Transfer (Scheduled, managed batch transfer, )
     Transfer Appliance( Rackable appliance to securely ship your data)
 
-# Other supported GCP services on storage:
+### Other supported GCP services on storage:
 
     import and export tabels with BigQuery
     Objects storage,logs & data store backup with App Engine
