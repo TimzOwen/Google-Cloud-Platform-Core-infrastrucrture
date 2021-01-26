@@ -80,3 +80,42 @@ Support high throughout
     Application API 
     Streamig
     Batch Processing
+
+
+#### Cloud SQL and CLoud Spanner
+
+__Relational db Services__  uses db schema to help your data be consistent and correct 
+
+    Also performs transactions 
+
+Provides   MYSQL  and PostgreSQLBeta db as a service
+
+Automatic replicaiton
+
+Managed Backups
+
+vertical scaling (r/w)
+
+Horizontal scaling (r)
+
+Google Security
+
+Accessed by other external services
+
+
+__Cloud Spanner__ offers Horizontal scalable RDMNS
+
+    Strong global Consistency
+    Manage instance with high availability
+    SQL queries
+    Automatic replication
+
+### Cloud DataStore
+
+    Is a Horizontal SQL
+    Free daily Quota
+    Designed for Application backend
+    Supports Transactions
+
+
+## Containerization
