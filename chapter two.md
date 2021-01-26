@@ -51,3 +51,32 @@ __lifer cycle__ management policiy for __versioning__ which allows quick modific
     Objects storage,logs & data store backup with App Engine
     startuo scripts, images & General Objects storage with Compute Engine
     Import and Export tables with Cloud SQL
+### Cloud Bigtable
+
+Google's NoSQL big data database service
+
+__Database Schema__ a relational db offering columns and rows for data input 
+
+__Enforce Schema__ helps organizr big data for some application
+
+__NOSQL Bigdata__ allows storage upto perabytes of data to terabytes of data 
+
+Support high throughout 
+
+### Managing Cloud Bigtable
+
+    Accessed using HBase API
+    Native Compatibility with big data & hadhoop Ecosystems
+
+### Cloud Bigtable 
+
+    Managed and Scalable Storage
+    Data Encryption in-flight and at rest
+    Control Access eith IAM
+    Bigtable drives major applications such as Gmail, Google Analytics
+
+### Access Paterns for Bigtable
+
+    Application API 
+    Streamig
+    Batch Processing
