@@ -119,3 +119,68 @@ __Cloud Spanner__ offers Horizontal scalable RDMNS
 
 
 ## Containerization
+
+
+
+### Kubernetes and Kubernetes Engine
+
+##### Containers in the Cloud:
+
+Easy scaling and deployments 
+
+Kubernetes is an opern source ochestrator for containers for scaling and managing applications.
+
+__kubectl__ allows you to control kubernetes engine
+
+__CLuster__ set of master commands that control a system as a whole and set of nodes that run container
+
+Create a complete cluster in cloud
+
+    gcloud container clusters create k1
+
+__Pod__ Smallest deployable unit in kubernetes
+
+Run a container in POD:
+
+    kubectl run 
+
+__Deployment__ represent a group of replica of the same pod
+
+See running pods in kubernetes
+
+    kubectl get pods
+
+Make your kubernetes visvible to the public,
+
+    kubectl expose deployments nginx --port=80 --type=loadbalancer
+
+Service groups:
+
+    provide endpoint services for clients access outside public IP 
+
+    allow easy management and stability
+
+GEt setvice
+
+    kubectl get services
+
+Scale service
+
+    kubectl scale nginix --replica=3
+
+Auto scale based on CPU usage
+
+    kubectl autoscale --min=10 --max=25 --cpu=80
+
+    kubectl get replicasets -------> view replicas
+
+    kubectl get pods -----------> get pods 
+
+#### Hybrid and Multi-Cloud Computing 
+
+___Modern Distributed Systems__ Allows a more agile approach to managing your compute
+
+    Move only some compute workloads to the Cloud 
+    Move at your own pace
+    take advantage of Cloud's scalability and low cost
+    add specialized services to your compute resources stack
