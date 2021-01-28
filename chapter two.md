@@ -184,3 +184,21 @@ ___Modern Distributed Systems__ Allows a more agile approach to managing your co
     Move at your own pace
     take advantage of Cloud's scalability and low cost
     add specialized services to your compute resources stack
+
+### Anthos:
+
+Googl's modern solution for hybrid and multi-cloud systems and service management
+
+    Kubernetes and GKE on premise foundation
+    On-premise and cloud environment stay in sync 
+    provide a rich set of tools:
+        Managing service on-premise and in the Cloud 
+        Monitoring systems and services
+        migrating applications from Vms into your clusters
+        maintaining consistent policies across all clusters, whether on premise  or in the Cloud.
+
+stack driver:
+
+    Built-in Monitoring and logging solutions for Google Cloud
+
+**Google Anthos** also manages __Microservices__ for easy anlysis where there are too many microservices
