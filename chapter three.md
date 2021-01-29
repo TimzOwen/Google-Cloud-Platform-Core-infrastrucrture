@@ -39,3 +39,64 @@ Cloud End Points:
 
 __Apigee__ helps you __secure__ and __monetize__ APIs
 
+### Developement in the Cloud
+
+__IaaS__ 
+
+    Monitoring: Proactive instrumentation
+
+__Cloud Source repositories__ 
+
+    Fully deatured Git repository hosted on Google GCP
+
+Cloud Functions:
+
+    Create single-purpose Functions that respond to events without a server or runtime
+
+    Written in JavaScript
+
+#### Deployment Manager:
+
+    provides repeatable deployments
+    Create a.yaml describing your environment and use deployment manager to create resources
+
+
+### Proactive Instrumenting 
+
+Stackdriver:
+
+    Monitor 
+    Log 
+    Debug
+    Error reporting 
+    Trace
+
+### Big Data and Machine Learning
+
+Big data: (Fully mananged and Scalable)
+
+    Cloud dataproc
+        Easily migrate on-premises Hadoop jobs to Cloud
+        save money on preemptive instances
+
+        you can use Spark ML (MLlib)to run classification Algorithms
+
+    Cloud dataflow
+    BigQuery
+    Cloud Pub/Sub
+    Cloud datalab
+
+#### CLoud DataFlow
+
+Offers Managed data pipelines
+
+Works for both batch and Streaming data
+
+Fully automates any tasks
+
+
+__Use Cases__:
+
+    ETL (Extract Transform Load) pipelines to move, Filter, Enrich and shape data
+
+    Data Analysis : Batch Computations / continuous computations using streaming
