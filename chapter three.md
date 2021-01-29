@@ -100,3 +100,51 @@ __Use Cases__:
     ETL (Extract Transform Load) pipelines to move, Filter, Enrich and shape data
 
     Data Analysis : Batch Computations / continuous computations using streaming
+
+
+
+#### BigQuery
+
+Fully managed Data WareHouse
+
+provides near real-time interactive analysis of massive datasets using SQL snytax 2011
+
+Run's on Google's High-performance Infrastructure
+
+    Compute and storage are separated with a terabit network in between
+    pay for storage and processing used
+    Long-term storage discount
+
+### Cloud Pub/Sub and Cloud Datalab
+
+Scalable reliable messaging:
+
+    support many-many asynchronous messaging
+    app components make pull/push 
+    include support for offline customers
+
+### Google Cloud Machine Learning:
+
+Learning Platform:
+
+    Tensorflow
+    Cloud ML
+    ML APIs
+
+Machine Learning API
+
+    CLoud Visoin API:
+
+        Analyse image with simple REST API
+        logo dection, Label detection
+
+    Gain insight from images
+    Detect inapropriate Content
+    Analyze sentiments
+    Extract text
+
+Cloud narural Language API:
+    
+    return text in realtime
+    High Accuracy
+    Access from any device
